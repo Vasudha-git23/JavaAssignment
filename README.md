@@ -1,2 +1,2 @@
 # JavaAssignment
-This is Java Assignmenet
+This is Java Assignment
